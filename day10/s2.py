@@ -80,11 +80,25 @@
 # a = int(num,base=2)
 # print(a)
 
+# a = 12;
+# print(a.bit_length())
 
 
-import sys
-print(sys.path)
 
+# test = "nihui"
+# v = test.capitalize()
+# print(v)
+
+# test = "niHui"
+# v1 = test.casefold();
+# print(v1)
+# v2 = test.lower();
+# print(v2)
+
+
+test = "nihui"
+v = test.center(20,"*");
+print(v)
 
 
 
