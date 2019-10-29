@@ -76,6 +76,15 @@
 # print(a)
 
 
-num = "0011"
-a = int(num,base=2)
-print(a)
+# num = "0011"
+# a = int(num,base=2)
+# print(a)
+
+
+
+import sys
+print(sys.path)
+
+
+
+
