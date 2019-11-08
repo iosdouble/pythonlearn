@@ -136,9 +136,88 @@
 
 
 
-v = 1
-v = 2
-print(v)
+# v = 1
+# v = 2
+# print(v)
 
 
+# v = "test"
+# v = v.replace("t","o");
+# print(v)
+
+
+# li = [11,22,33,454]
+# li[3] = 999;
+# print(li)
+
+
+# test = "nihui"
+# v = test[0]
+# print(v)
+# test[1] = "tes"
+# print(test)
+
+
+# li = [11,22,33,454]
+# print(li)
+# print(li)
+# print(li)
+# print(li)
+# print(li)
+# print(li)
+# print(li)
+# print(li)
+# print(li)
+# print(li)
+
+# # 列表
+# li = [11,22,33,44]
+# #元组
+# tu = (11,22,33,44)
+
+# tuple
+
+tu = (111,"test",(111,222),[(33,44)],True,33,44,)
+
+li = list(tu)
+li.append(55)
+print(li)
+tu = tuple(li)
+print(tu)
+# v = tu.index(True)
+# print(v)
+
+
+# v = tu.count(True);
+# print(v)
+
+
+# s = "test"
+# li = ["test",123,"nihui"]
+#
+# v  = list(tu)
+# print(v)
+
+
+# v = str(tu)
+# print(v)
+
+# v = tuple(li)
+# print(v)
+
+
+# v = tuple(s)
+# print(v)
+# for item in tu:
+#     print(item)
+
+
+
+
+# #通过索引取值
+# v = tu[0]
+# #通过切片取值
+# v1 =tu[0:1]
+# print(v1)
+# print(v)
 
