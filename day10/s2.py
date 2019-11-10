@@ -258,9 +258,15 @@
 # print(v)
 
 
-test = "nihui HELLO"
-v = test.swapcase()
-print(v)
+# test = "nihui HELLO"
+# v = test.swapcase()
+# print(v)
+
+
+
+
+
+
 
 
 
